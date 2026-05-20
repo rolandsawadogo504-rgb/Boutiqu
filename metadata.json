@@ -1,0 +1,6 @@
+{
+  "name": "LANDRO DIGITAL",
+  "description": "Une application mobile-first premium pour le marketing digital et le partage de contenu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
